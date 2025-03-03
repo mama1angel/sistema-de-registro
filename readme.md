@@ -3,3 +3,4 @@
 Esatdo del proyecto: en construccion
 
 
+Para ejecutar el sistema debes poner:
